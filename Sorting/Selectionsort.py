@@ -27,6 +27,3 @@ if __name__ == '__main__':
     print("Before Sorting:",l)
     Selection_sort(l)
     print("After Sorting:",l)
-
-
-    
