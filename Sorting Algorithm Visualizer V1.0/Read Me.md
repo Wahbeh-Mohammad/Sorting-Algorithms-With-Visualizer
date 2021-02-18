@@ -1,4 +1,7 @@
 # Important.
+
+## Keep in mind that this is an old version with alot of bugs. 
+
 With threading i was able to visualize larger arrays without the 
 program freezing on me while sorting the array half-way some
 sortings may interfere with the mainthread wich would cause
