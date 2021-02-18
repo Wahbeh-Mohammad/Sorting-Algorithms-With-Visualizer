@@ -25,6 +25,3 @@ if __name__ == '__main__':
     l = [5,1,4,2,8,9,5]
     print("Before Sorting:",l)
     print("After Sorting:",Insertion_sort(l))
-
-
-    
